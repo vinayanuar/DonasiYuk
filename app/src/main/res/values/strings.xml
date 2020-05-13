@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Donasi Yuk</string>
+    <string name="title_home">Home</string>
+    <string name="title_data">Donasi Saya</string>
+    <string name="title_akun">Akun</string>
+    <string-array name="terkumpul">
+        <item>Rp. 109.711.248</item>
+        <item>Rp. 10.816.000</item>
+        <item>Rp. 480.789</item>
+    </string-array>
+    <string-array name="targetterkumpul">
+        <item>Rp. 50.000.000</item>
+        <item>Rp. 30.000.000</item>
+        <item>Rp. 500.000</item>
+    </string-array>
+    <string-array name="donasi">
+        <item>11702</item>
+        <item>1782</item>
+        <item>889</item>
+    </string-array>
+    <string-array name="sisahari">
+        <item>14</item>
+        <item>49</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="judul">
+        <item>Bantu 4 Mahasiswa Yang Ingin Cepat Lulus</item>
+        <item>Galang Dana Untuk COVID-19 Di Karawang</item>
+        <item>Makanan Buka Puasa Untuk Mahasiswa Rantau</item>
+    </string-array>
+    <string-array name="subjudul">
+        <item>Saya bergerak menggalang dana karena mahasiswa tingkat akhir ini udah bingung harus ngapain lagi, karena judul skripsi selalu ditolak. Jadi saya menggalang dana ini bertujuan agar 4 mahasiswa ini kembali semangat untuk menyelesaikan skripsinya.</item>
+        <item>Penyebaran virus corona di Indonesia terus meluas. Dampak virus ini sangat mengkhawatirkan. Ribuan orang positif dan dalam pengawasan, sementara ratusan lainnya meninggal duina. Angka tersebut bukan statistic semata, melainkan menyangkut nyawa dan kehidupan banyak orang. Penyebaran virus corona terdampak pada banyak hal mulai dari kesehatan banyak orang, sampai kehidupan ekonomi masyarakat yang menurun drastis.\n\nKita tidak bisa tinggal diam saja melihat penyebaran virus corona ini. Kita harus menolong untuk menghentikan penyebaran virus corona secepat mungkin. Melalui galang dana ini, kamu dan semua orang bisa berdonasi untuk membantu menghentikan penyebaran virus corona. Kita akan menggunakan hasil galang dana ini untuk membantu masyarakat dan melindungi banyak orang yang terdampak virus corona.</item>
+        <item>Cerita mahasiswa, seorang remaja yang tinggal di pesisir kampus UNSIKA. Saat ini mahasiswa sangat kesulitan mendapatkan uang untuk biaya hidup sehari-hari. Biasanya setiap bulan dikirimkan uang oleh orang tua nya. Dikarenakan sekarang sedang ada musibah, yang tidak diperbolehkannya perantau untuk mudik. Oleh karena itu, keadaan mahasiswa ini sangat terpuruk.</item>
+    </string-array>
+    <string-array name="gambar">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+    </string-array>
+    <string name="tentang">Menghubungkan Jutaan Kebaikan</string>
+    <string-array name="jeniskel">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string name="tentangsub">Donkuy adalah wadah untuk berdonasi dan menggalang dana secara online dalam cakupan kampus UNSIKA atau daerah karawang.\n\nKami percaya, kemajuan teknologi sepatutnya dimanfaatkan untuk menghubungkan semangat kebaikan dan gotong royong</string>
+
+    <string-array name="nominaltopup">
+        <item>Rp. 50.000</item>
+        <item>Rp. 100.000</item>
+        <item>Rp. 250.000</item>
+        <item>Rp. 500.000</item>
+    </string-array>
+    <string-array name="modeltopup">
+        <item>Bank BNI</item>
+        <item>Bank BCA</item>
+    </string-array>
+</resources>

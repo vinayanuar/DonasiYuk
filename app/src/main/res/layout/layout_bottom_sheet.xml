@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Masukkan Nominal Isi Saldo"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/spinNominal"
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/g2"
+            android:entries="@array/nominaltopup" />
+
+        <Spinner
+            android:id="@+id/spiMethod"
+            android:layout_width="match_parent"
+            android:layout_height="53dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/g2"
+            android:entries="@array/modeltopup" />
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/isis"
+            app:backgroundTint="@color/kuning"
+            android:text="Isi saldo" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
